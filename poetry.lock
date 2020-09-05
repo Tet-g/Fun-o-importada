@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "我的第二个测试包"
+name = "wang-test"
+optional = false
+python-versions = "*"
+version = "1.0.00.001"
+
+[metadata]
+content-hash = "205237d09093076cf66fcd6ec89b5b58e6dd502fb6162ea9d015a32b09f4c403"
+python-versions = "^3.8"
+
+[metadata.files]
+wang-test = [
+    {file = "wang_test-1.0.00.001.tar.gz", hash = "sha256:3cc086c963bf5290945ba44f30a51d1bb5514db4baa9765ac12c1c84f90834d1"},
+]
